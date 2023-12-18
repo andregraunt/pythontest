@@ -1,0 +1,4 @@
+The app was terminated due to an Objective-C exception. Details below:
+
+2021-10-12 23:28:05.463705
+Modifications to the layout engine must not be performed from a background thread after it has been accessed from the main thread.
